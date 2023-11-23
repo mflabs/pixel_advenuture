@@ -1,6 +1,6 @@
 # pixel_advenuture
 
-A new Flutter project.
+Primo test di creazione di un gioco Flutter utilizzando Flame.
 
 ## Getting Started
 
